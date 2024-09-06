@@ -167,3 +167,6 @@ cython_debug/
 
 # venv
 /.venv_5_recommendation_systems
+
+# file
+/notebooks/00_leetcode.ipynb
